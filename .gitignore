@@ -1,0 +1,8 @@
+differential_calculus/*
+integral_calculus/*
+transcedental_functions/*
+database_system.py
+graphing_engine.py
+series_gen.py
+time_generator.py
+utilities.py
